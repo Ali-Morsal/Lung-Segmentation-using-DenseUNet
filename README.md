@@ -9,8 +9,8 @@
  
 - **Custom Dataset Loader**
   - Used multiple datasets:
-    - [COVID-19 Radiography Database]([https://google.com](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
-    - [COVID-QU-Ex Dataset]([https://google.com](https://www.kaggle.com/datasets/anasmohammedtahir/covidqu)
+    - [COVID-19 Radiography Database](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database)
+    - [COVID-QU-Ex Dataset](https://www.kaggle.com/datasets/anasmohammedtahir/covidqu)
     - Total images: 60911
   - Automatically matches images and masks.
   - Handles grayscale conversion, resizing (to 256×256), and CLAHE filtering.
