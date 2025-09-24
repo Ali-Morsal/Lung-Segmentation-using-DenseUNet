@@ -1,6 +1,6 @@
 ## ✨ Features
 - **Accuracy**
-  -Dice: 0.9823
+  - Dice: 0.9823
   - IoU: 0.9658
   - Precision: 0.9835
   - Recall: 0.9833
